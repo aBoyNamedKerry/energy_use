@@ -9,6 +9,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 pandas = "^2.2.3"
+numpy = "^2.2.3"
+datetime = "^5.5"
+matplotlib = "^3.10.0"
 
 
 [tool.poetry.group.dev.dependencies]
