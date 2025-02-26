@@ -26,6 +26,25 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+# Data formats
+*.csv
+*.xls
+*.xlsx
+*.json
+*.rds
+*.html
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.zip
+*.tar
+*.tar.gz
+*.gz
+*.html
+*.txt
+*.sqlite3
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
